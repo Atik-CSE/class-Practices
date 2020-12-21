@@ -1,4 +1,3 @@
-    /*C program to create a linked list and display the elements in the list*/
     #include <stdio.h>
     #include <malloc.h>
     #include <stdlib.h>

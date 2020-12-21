@@ -10,7 +10,7 @@ printf("\nEnter list: \n");
 srand(time(NULL));
 for(i=0;i<n;i++)
 {
-a[i]=rand()100;
+a[i]=rand()%100;
 printf("\na[%d]=%d",i,a[i]);
 }
 printf("\n\nGiven List: \n");

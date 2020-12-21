@@ -7,7 +7,7 @@ int main()
     printf("Enter number of elements :");
 scanf("%d",&n);
 printf("\nEnter list: ",n);
-for(i=0;i<=n;i++)
+for(i=1;i<=n;i++)
 {
       printf("\nword[%d] : ",i);
       scanf("%s",&a[i]);
@@ -25,7 +25,7 @@ for(j=1;j<=n;j++)
     }
 }
 printf("\nSorted elements: :");
-for(i=0;i<=n;i++)
+for(i=1;i<=n;i++)
 printf("\na[%d]= %s ",i,a[i]);
 return 0;
 }

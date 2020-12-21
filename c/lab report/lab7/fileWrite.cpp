@@ -10,7 +10,7 @@ int main()
       printf("Error!");
       return 0;
    }
-for(int i=1;i<=15;i++)
+for(int i=1;i<=5;i++)
 {
    printf("Enter num: ");
    scanf("%d",&num);

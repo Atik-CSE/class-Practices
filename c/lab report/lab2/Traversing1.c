@@ -16,6 +16,6 @@ int main()
         if(Auto[i]>300)
             count=count+1;
     }
-    printf("\nNumber of year greater than 300 automobile were sold: %d",count);
+    printf("\nNumber of year greater than 300 automobile were sold: %d\n",count);
     return 0;
 }

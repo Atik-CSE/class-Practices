@@ -16,7 +16,7 @@ int main()
         if(item==a[i])
         {
             loc=i;
-            brack;
+            break;
         }
     }
     if(loc==0)

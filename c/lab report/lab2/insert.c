@@ -3,9 +3,9 @@ int main()
 {
     int a[100],i,n,item,loc;
     printf("Enter No. OF Element :");
-    scanf("%d",&a[i]);
+    scanf("%d",&n);
     printf("\Enter List :");
-    for(i=1;i<=n;i++);
+    for(i=1;i<=n;i++)
     {
         printf("\na[%d] :",i);
         scanf("%d",&a[i]);
